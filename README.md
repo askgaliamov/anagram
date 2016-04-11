@@ -6,12 +6,12 @@ Gradle
 
 ### Build
 ```
-./gradlew build
+gradle build
 ```
 
 ### Run tests
 ```
-./gradlew test
+gradle test
 ```
 
 ### Install application
